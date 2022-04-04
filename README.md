@@ -1,2 +1,2 @@
 # Session1
-(sql commands)
+(sql queries)
